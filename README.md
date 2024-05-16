@@ -1,0 +1,2 @@
+Banking Application is a project in which user need to input account number in text box by clicking find button, the application will fetch data from DAT file and populate account holder name and his account balance in the Ui of respected label elements.
+Is has some more functionalities like Deposit, Withdraw, total transactions and save balance buttons integrated with expiry method(Application will be expired after the expiry date).
